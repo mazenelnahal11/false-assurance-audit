@@ -1,0 +1,7 @@
+{
+  "protocol": "0.3-study",
+  "original_export": "run_study_0ec693d3_results.zip",
+  "original_sha256": "a7c960e2b5df1caa8e3c5a3f05cf97fe3642adf9f5af77a2788c3fa6a6ed2b33",
+  "release_sha256": "507adbbd9dc242db86905adfe3bef74d3826cd27a34105a065fc0b4492d0fc26",
+  "release_derivation": "All CSV and JSON records are byte-identical. The image preview is omitted."
+}
